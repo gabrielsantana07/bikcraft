@@ -9,6 +9,7 @@ body {
   h4,
   ul,
   blockquote,
+  dd,
   p {
     margin: 0px;
   }
